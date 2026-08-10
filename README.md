@@ -305,6 +305,6 @@ Este repositório documenta minha jornada aprendendo Flutter, desde os fundament
 
 ---
 
-# 🎯 Objetivo
+# Objetivo
 
 Aprender Flutter do básico ao avançado, desenvolvendo aplicações modernas, performáticas e multiplataforma, utilizando boas práticas de arquitetura, gerenciamento de estado, integração com APIs e Firebase, até a publicação nas lojas oficiais.
